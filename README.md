@@ -1,2 +1,2 @@
 # DataVisualization
-Please see respective reports in individual folder. Thanks
+Please see reports in respective folders. Thanks
