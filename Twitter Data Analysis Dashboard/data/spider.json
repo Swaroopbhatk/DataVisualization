@@ -1,0 +1,37 @@
+[
+  {
+    name: "Date: 07-03-2018",
+    data: [5, 36, 5, 0, 162, 0, 0, 0, 0, 0],
+    pointPlacement: 'on'
+  },
+  {
+     name: "Date: 08-03-2018",
+     data: [0, 0, 11, 0, 502, 0, 36, 0, 83, 0],
+     pointPlacement: 'on'
+  },
+  {
+     name: "Date: 09-03-2018",
+     data: [0, 97, 108, 0, 477, 0, 0, 0, 56, 0],
+	 pointPlacement: 'on'
+  },
+  {
+     name: "Date: 10-03-2018",
+     data: [0, 0, 177, 0, 61, 0, 180, 73, 0, 0],
+	 pointPlacement: 'on'
+  },
+  {
+     name: "Date: 11-03-2018",
+     data: [0, 0, 87, 0, 885, 0, 0, 226, 0, 0],
+	 pointPlacement: 'on'
+  },
+  {
+     name: "Date: 12-03-2018",
+     data: [0, 38, 0, 134, 126, 0, 0, 0, 39, 0],
+	 pointPlacement: 'on'
+  },
+  {
+     name: "Date: 13-03-2018",
+     data: [0, 0, 2, 0, 129, 0, 5, 93, 339, 13],
+	 pointPlacement: 'on'
+  }
+]

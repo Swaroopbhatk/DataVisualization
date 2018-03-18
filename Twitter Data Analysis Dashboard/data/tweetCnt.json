@@ -1,0 +1,46 @@
+[
+  {
+    "location": "carlow",
+    "Counts": 0.495049505
+  },
+  {
+    "location": "clare",
+    "Counts": 1.485148515
+  },
+  {
+    "location": "cork",
+    "Counts": 5.445544554
+  },
+  {
+    "location": "donegal",
+    "Counts": 0.495049505
+  },
+  {
+    "location": "dublin",
+    "Counts": 34.15841584
+  },
+  {
+    "location": "fingal",
+    "Counts": 0.495049505
+  },
+  {
+    "location": "galway",
+    "Counts": 1.98019802
+  },
+  {
+    "location": "kerry",
+    "Counts": 1.98019802
+  },
+  {
+    "location": "limerick",
+    "Counts": 2.97029703
+  },
+  {
+    "location": "sligo",
+    "Counts": 0.495049505
+  },
+  {
+    "location": "others",
+    "Counts": 50
+  }
+]
